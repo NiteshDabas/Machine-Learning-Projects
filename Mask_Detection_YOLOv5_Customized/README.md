@@ -4,7 +4,7 @@ This project is to use pretained YOLOv5s weights and finetune them so as to dete
 
 It aims at classifying persons <ins>WITH</ins> masks and persons <ins>WITHOUT</ins> masks in a photograph or a video.<br/>
 
-![facemask_video_processed](https://github.com/NiteshDabas/Machine-Learning-Projects/tree/main/Mask_Detection_YOLOv5_Customized/ModelOutput-Video/facemask_video_processed.gif)
+![](https://github.com/NiteshDabas/Machine-Learning-Projects/tree/main/Mask_Detection_YOLOv5_Customized/ModelOutput-Video/facemask_video_processed.gif)
 
 For my customized model, I used YOLOv5 Darknet framework with Custom dataset.<br/>
 

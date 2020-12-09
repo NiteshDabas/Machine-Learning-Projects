@@ -1,6 +1,6 @@
-## Sentiment Classification Model for IMDB movie reviews<br/>
+## Sentiment Analysis - Binary Text Classification Model for IMDB movie reviews<br/>
 
-This project is to classify reviews of IMDB movies as posative or negative reviews using Text classification methodologies such as Word2Vec & LSTM.
+This project is to do <ins>**Sentiment Analysis**</ins> by classifying reviews of IMDB movies as posative or negative reviews using <ins>**Binary Text Classification**</ins> methodologies such as Word2Vec & LSTM.
 
 ### Learnings<br/>
 1. Binary text classification<br/>

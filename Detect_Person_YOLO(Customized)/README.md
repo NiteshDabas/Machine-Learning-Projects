@@ -4,9 +4,7 @@ This project is to use pretained yolo tiny weights and finetune them so as to de
 
 It aims at identifying <ins>ONLY</ins> persons in a photograph or a video.<br/>
 
-[Photograph Detection] ( 
-
-https://github.com/.com/NiteshDabas/Machine-Learning-Projects/blob/main/Detect_Person_YOLO\(Customized\)/ModelOutput/test_image_0_processed.png?raw=true)
+![Figure 1](https://github.com/NiteshDabas/Machine-Learning-Projects/blob/main/Detect_Person_YOLO(Customized)/ModelOutput/test_image_0_processed.png)
 
 For my customized model, I used YOLOv4 Darknet framework with VOC2007 data.<br/>
 
